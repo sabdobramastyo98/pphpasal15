@@ -1,0 +1,94 @@
+{
+  "pphpasal15" : [
+    { 
+      "id" : 1,
+      "soal" : "Nilai bea meterai yang berlaku saat ini yaitu…..",
+      "jawabana" :  "Rp3.000,-",
+      "jawabanb" :  "Rp5.000,-",
+      "jawabanc" :  "Rp6.000,-",
+      "jawaband" :  "(a) dan (c) benar",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 2,
+      "soal" : "Berdasarkan penyataan dibawah ini merupakan….. <br> (1) Pihak yang menerima atau mendapat manfaat dari dokumen, kecuali pihak-pihak yang bersangkutan menentukan lain. <br> (2) Dalam hal dokumen dibuat sepihak, misal kwitansi, bea meterai terutang oleh penerima kwitansi. <br> (3) Dalam hal dokumen dibuat oleh 2 (dua) pihak atau lebih, misal surat perjanjian dibawah tangan, maka masing-masing pihak terutang bea materai.",
+      "jawabana" :  "Objek Bea Materai",
+      "jawabanb" :  "Subjek Bea Materai",
+      "jawabanc" :  "Dokumen Bea Materai",
+      "jawaband" :  "Semua jawaban benar",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 3,
+      "soal" : "Surat perjanjian dan surat-surat lainnya (surat kuasa, surat hibah, dan surat pernyataan) yang dibuat untuk digunakan sebagai alat pembuktian mengenai perbuatan, kenyataan atau keadaan yang bersifat perdata. Dokumen tersebut di atas merupakan…..",
+      "jawabana" :  "Objek Bea Materai",
+      "jawabanb" :  "Subjek Bea Materai",
+      "jawabanc" :  "Dokumen Bea Materai",
+      "jawaband" :  "Semua jawaban benar",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 4,
+      "soal" : "Berapakah tarif bea materai yang dikenakan jika surat yang memuat jumlah uang lebih dari Rp250.000,- sampai dengan Rp1.000.000,-?",
+      "jawabana" :  "Rp3.000,-",
+      "jawabanb" :  "Rp5.000,-",
+      "jawabanc" :  "Rp6.000,-",
+      "jawaband" :  "(a) dan (c) benar",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 5,
+      "soal" : "Berapakah tarif bea materai yang dikenakan jika surat yang memuat jumlah uang lebih dari Rp1.000.000,-?",
+      "jawabana" :  "Rp3.000,-",
+      "jawabanb" :  "Rp5.000,-",
+      "jawabanc" :  "Rp6.000,-",
+      "jawaband" :  "(a) dan (c) benar",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 6,
+      "soal" : "Apa saja dokumen yang akan digunakan sebagai alat pembuktian di muka pengadilan?",
+      "jawabana" :  "Surat-surat biasa dan surat kerumah-tanggaan;",
+      "jawabanb" :  "Surat-surat yang semula tidak dikenakan bea meterai berdasarkan tujuannya, jika digunakan untuk tujuan lain atau digunakan oleh orang lain, selain dari maksud semula",
+      "jawabanc" :  "Jika dokumen awalnya tidak terutang Bea Materai, namun kemudian dokumen tersebut digunakan untuk alat pembuktian di pengadilan, maka dokumen tersebut harus dilakukan pemeteraian kemudian.",
+      "jawaband" :  "Semua jawaban benar",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 7,
+      "soal" : "Berikut ini yang bukan merupakan objek Bea Materai adalah…..",
+      "jawabana" :  "Tanda penerimaan uang yang dibuat untuk keperluan intern organisasi",
+      "jawabanb" :  "Akta-akta notaris termasuk salinannya",
+      "jawabanc" :  "Surat kuasa, surat hibah, dan surat pernyataan",
+      "jawaband" :  "Wesel, promes, dan aksep",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 8,
+      "soal" : "Berapakah tarif Bea Materai untuk cek dan bilyet giro?",
+      "jawabana" :  "Rp3.000,-",
+      "jawabanb" :  "Rp5.000,-",
+      "jawabanc" :  "Rp6.000,-",
+      "jawaband" :  "Rp15.000,-",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 9,
+      "soal" : "Berapakah tarif Bea Materai untuk nominal hingga Rp250.000,-?",
+      "jawabana" :  "Rp3.000,-",
+      "jawabanb" :  "Rp5.000,-",
+      "jawabanc" :  "Rp6.000,-",
+      "jawaband" :  "Tidak dikenakan Bea Materai",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 10,
+      "soal" : "(1) Benda meterai adalah meterai tempel dan kertas meterai yang dikeluarkan oleh Pemerintah Republik Indonesia. <br> (2) Pemeteraian kemudian adalah pelunasan bea meterai yang dilakukan pejabat pos atas dokumen yang bea meterai belum dilunasi. <br> Penjelasan di atas merupakan…..Bea Materai",
+      "jawabana" :  "Definisi",
+      "jawabanb" :  "Jenis",
+      "jawabanc" :  "Subjek",
+      "jawaband" :  "Objek",
+      "kuncijawaban" : "jawabanb"
+    }
+  ]
+}
