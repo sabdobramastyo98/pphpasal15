@@ -7,7 +7,7 @@
       "jawabanb" :  "Rp5.000,-",
       "jawabanc" :  "Rp6.000,-",
       "jawaband" :  "(a) dan (c) benar",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "(a) dan (c) benar"
     },
     {
       "id" : 2,
@@ -16,7 +16,7 @@
       "jawabanb" :  "Subjek Bea Materai",
       "jawabanc" :  "Dokumen Bea Materai",
       "jawaband" :  "Semua jawaban benar",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Subjek Bea Materai"
     },
     {
       "id" : 3,
@@ -25,7 +25,7 @@
       "jawabanb" :  "Subjek Bea Materai",
       "jawabanc" :  "Dokumen Bea Materai",
       "jawaband" :  "Semua jawaban benar",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Objek Bea Materai"
     },
     {
       "id" : 4,
@@ -34,7 +34,7 @@
       "jawabanb" :  "Rp5.000,-",
       "jawabanc" :  "Rp6.000,-",
       "jawaband" :  "(a) dan (c) benar",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Rp3.000,-"
     },
     {
       "id" : 5,
@@ -43,7 +43,7 @@
       "jawabanb" :  "Rp5.000,-",
       "jawabanc" :  "Rp6.000,-",
       "jawaband" :  "(a) dan (c) benar",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Rp6.000,-"
     },
     {
       "id" : 6,
@@ -52,7 +52,7 @@
       "jawabanb" :  "Surat-surat yang semula tidak dikenakan bea meterai berdasarkan tujuannya, jika digunakan untuk tujuan lain atau digunakan oleh orang lain, selain dari maksud semula",
       "jawabanc" :  "Jika dokumen awalnya tidak terutang Bea Materai, namun kemudian dokumen tersebut digunakan untuk alat pembuktian di pengadilan, maka dokumen tersebut harus dilakukan pemeteraian kemudian.",
       "jawaband" :  "Semua jawaban benar",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Semua jawaban benar"
     },
     {
       "id" : 7,
@@ -61,7 +61,7 @@
       "jawabanb" :  "Akta-akta notaris termasuk salinannya",
       "jawabanc" :  "Surat kuasa, surat hibah, dan surat pernyataan",
       "jawaband" :  "Wesel, promes, dan aksep",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Tanda penerimaan uang yang dibuat untuk keperluan intern organisasi"
     },
     {
       "id" : 8,
@@ -70,7 +70,7 @@
       "jawabanb" :  "Rp5.000,-",
       "jawabanc" :  "Rp6.000,-",
       "jawaband" :  "Rp15.000,-",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Rp3.000,-"
     },
     {
       "id" : 9,
@@ -79,7 +79,7 @@
       "jawabanb" :  "Rp5.000,-",
       "jawabanc" :  "Rp6.000,-",
       "jawaband" :  "Tidak dikenakan Bea Materai",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Tidak dikenakan Bea Materai"
     },
     {
       "id" : 10,
@@ -88,7 +88,7 @@
       "jawabanb" :  "Jenis",
       "jawabanc" :  "Subjek",
       "jawaband" :  "Objek",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Jenis"
     }
   ]
 }
