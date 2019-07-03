@@ -1,93 +1,93 @@
 {
   "pphpasal15" : [
-    {	
+    {
       "id" : 1,
       "soal" : "Norma perhitungan khusus untuk Wajib Pajak tertentu yang dimaksud dalam penjelasan Pasal 15 UU PPh, yaitu…..",
-      "jawabana" :	"Perusahaan dagang lokal",
-      "jawabanb" :	"Perusahaan asuransi dalam negeri",
-      "jawabanc" :	"Perusahaan yang melakukan investasi dalam bentuk bagun-guna-serah",
-      "jawaband" :	"Perusahaan pertambangan",
+      "jawabana" :  "Perusahaan dagang lokal",
+      "jawabanb" :  "Perusahaan asuransi dalam negeri",
+      "jawabanc" :  "Perusahaan yang melakukan investasi dalam bentuk bagun-guna-serah",
+      "jawaband" :  "Perusahaan pertambangan",
       "kuncijawaban" : "Perusahaan yang melakukan investasi dalam bentuk bagun-guna-serah"
     },
-    {	
+    {
       "id" : 2,
       "soal" : "PPh sehubungan dengan penghasilan perusahaan pelayaran dalam negeri dan luar negeri serta perusahaan penerbangan bersifat…..",
-      "jawabana" :	"Subjektif",
-      "jawabanb" :	"Objektif",
-      "jawabanc" :	"Final",
-      "jawaband" :	"Tidak Final",
+      "jawabana" :  "Subjektif",
+      "jawabanb" :  "Objektif",
+      "jawabanc" :  "Final",
+      "jawaband" :  "Tidak Final",
       "kuncijawaban" : "Final"
     },
-    {	
+    {
       "id" : 3,
       "soal" : "Berapa besarnya tarif pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan pelayaran dalam negeri?",
-      "jawabana" :	"0,5%",
-      "jawabanb" :	"1,2%",
-      "jawabanc" :	"7,5%",
-      "jawaband" :	"10%",
+      "jawabana" :  "0,5%",
+      "jawabanb" :  "1,2%",
+      "jawabanc" :  "7,5%",
+      "jawaband" :  "10%",
       "kuncijawaban" : "1,2%"
     },
-    {	
+    {
       "id" : 4,
       "soal" : "Semua imbalan atau nilai pengganti berupa uang atau nilai uang yang diterima atau diperoleh Wajib Pajak sebagaimana diuraikan dalam objek pajak, disebut dengan…..",
-      "jawabana" :	"Penghasilan bruto",
-      "jawabanb" :	"Penghasilan neto",
-      "jawabanc" :	"Peredaran bruto",
-      "jawaband" :	"Laba bersih",
+      "jawabana" :  "Penghasilan bruto",
+      "jawabanb" :  "Penghasilan neto",
+      "jawabanc" :  "Peredaran bruto",
+      "jawaband" :  "Laba bersih",
       "kuncijawaban" : "Peredaran bruto"
     },
-    {	
+    {
       "id" : 5,
       "soal" : "Pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan pelayaran dan penerbangan luar negeri diatur dalam Keputusan Menteri Nomor…..",
-      "jawabana" :	"Nomor 147/KMK.03/1996",
-      "jawabanb" :	"Nomor 417/KMK.04/1998",
-      "jawabanc" :	"Nomor 417/KMK.04/1996",
-      "jawaband" :	"Nomor 147/KMK.03/1998",
+      "jawabana" :  "Nomor 147/KMK.03/1996",
+      "jawabanb" :  "Nomor 417/KMK.04/1998",
+      "jawabanc" :  "Nomor 417/KMK.04/1996",
+      "jawaband" :  "Nomor 147/KMK.03/1998",
       "kuncijawaban" : "Nomor 417/KMK.04/1996"
     },
-    {	
+    {
       "id" : 6,
       "soal" : "Berapakah tarif pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan pelayaran dan penerbangan luar negeri?",
-      "jawabana" :	"0,25% ",
-      "jawabanb" :	"1,5%",
-      "jawabanc" :	"2,5%",
-      "jawaband" :	"2,64%",
+      "jawabana" :  "0,25% ",
+      "jawabanb" :  "1,5%",
+      "jawabanc" :  "2,5%",
+      "jawaband" :  "2,64%",
       "kuncijawaban" : "2,64%"
     },
-    {	
+    {
       "id" : 7,
       "soal" : "Berikut ini merupakan objek pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan pelayaran dalam negeri, kecuali…..",
-      "jawabana" :	"Pelabuhan di Indonesia ke pelabuhan di luar Indonesia",
-      "jawabanb" :	"Pelabuhan di luar Indonesia ke pelabuhan di Indonesia",
-      "jawabanc" :	"Pelabuhan di Indonesia ke pelabuhan lainnya di Indonesia",
-      "jawaband" :	"Pelabuhan di luar Indonesia ke pelabuhan Singapura",
+      "jawabana" :  "Pelabuhan di Indonesia ke pelabuhan di luar Indonesia",
+      "jawabanb" :  "Pelabuhan di luar Indonesia ke pelabuhan di Indonesia",
+      "jawabanc" :  "Pelabuhan di Indonesia ke pelabuhan lainnya di Indonesia",
+      "jawaband" :  "Pelabuhan di luar Indonesia ke pelabuhan Singapura",
       "kuncijawaban" : "Pelabuhan di luar Indonesia ke pelabuhan Singapura"
     },
-    {	
+    {
       "id" : 8,
       "soal" : "Berapakah tarif pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan penerbangan dalam negeri?",
-      "jawabana" :	"0,75%",
-      "jawabanb" :	"1%",
-      "jawabanc" :	"1,8%",
-      "jawaband" :	"2,5%",
+      "jawabana" :  "0,75%",
+      "jawabanb" :  "1%",
+      "jawabanc" :  "1,8%",
+      "jawaband" :  "2,5%",
       "kuncijawaban" : "1,8%"
     },
-    {	
+    {
       "id" : 9,
       "soal" : "Siapakah yang menjadi Wajib Pajak pada pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan penerbangan dalam negeri?",
-      "jawabana" :	"Perusahaan penerbangan yang berkedudukan di Malaysia yang memperoleh penghasilan berdasarkan perjanjian carter",
-      "jawabanb" :	"Perusahaan penerbangan yang berkedudukan di Indonesia yang memperoleh penghasilan berdasarkan perjanjian kerja sama",
-      "jawabanc" :	"Perusahaan penerbangan yang berkedudukan di Indonesia yang memperoleh penghasilan berdasarkan perjanjian carter",
-      "jawaband" :	"Perusahaan penerbangan yang berkedudukan di Malaysia yang memperoleh penghasilan berdasarkan perjanjian kerja sama",
+      "jawabana" :  "Perusahaan penerbangan yang berkedudukan di Malaysia yang memperoleh penghasilan berdasarkan perjanjian carter",
+      "jawabanb" :  "Perusahaan penerbangan yang berkedudukan di Indonesia yang memperoleh penghasilan berdasarkan perjanjian kerja sama",
+      "jawabanc" :  "Perusahaan penerbangan yang berkedudukan di Indonesia yang memperoleh penghasilan berdasarkan perjanjian carter",
+      "jawaband" :  "Perusahaan penerbangan yang berkedudukan di Malaysia yang memperoleh penghasilan berdasarkan perjanjian kerja sama",
       "kuncijawaban" : "Perusahaan penerbangan yang berkedudukan di Indonesia yang memperoleh penghasilan berdasarkan perjanjian carter"
     },
-    {	
+    {
       "id" : 10,
       "soal" : "Dalam pembukuan Wajib Pajak, penghasilan dan biaya yang terjadi harus...dari penghasilan dan biaya lainnya.",
-      "jawabana" :	"ditambahkan",
-      "jawabanb" :	"digabungkan",
-      "jawabanc" :	"dikurangkan",
-      "jawaband" :	"dipisahkan",
+      "jawabana" :  "ditambahkan",
+      "jawabanb" :  "digabungkan",
+      "jawabanc" :  "dikurangkan",
+      "jawaband" :  "dipisahkan",
       "kuncijawaban" : "dipisahkan"
     }
   ]
