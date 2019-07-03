@@ -1,94 +1,94 @@
 {
   "pphpasal15" : [
-    { 
+    {	
       "id" : 1,
-      "soal" : "Nilai bea meterai yang berlaku saat ini yaitu…..",
-      "jawabana" :  "Rp3.000,-",
-      "jawabanb" :  "Rp5.000,-",
-      "jawabanc" :  "Rp6.000,-",
-      "jawaband" :  "(a) dan (c) benar",
-      "kuncijawaban" : "(a) dan (c) benar"
+      "soal" : "Norma perhitungan khusus untuk Wajib Pajak tertentu yang dimaksud dalam penjelasan Pasal 15 UU PPh, yaitu…..",
+      "jawabana" :	"Perusahaan dagang lokal",
+      "jawabanb" :	"Perusahaan asuransi dalam negeri",
+      "jawabanc" :	"Perusahaan yang melakukan investasi dalam bentuk bagun-guna-serah",
+      "jawaband" :	"Perusahaan pertambangan",
+      "kuncijawaban" : "Perusahaan yang melakukan investasi dalam bentuk bagun-guna-serah"
     },
-    {
+    {	
       "id" : 2,
-      "soal" : "Berdasarkan penyataan dibawah ini merupakan….. <br> (1) Pihak yang menerima atau mendapat manfaat dari dokumen, kecuali pihak-pihak yang bersangkutan menentukan lain. <br> (2) Dalam hal dokumen dibuat sepihak, misal kwitansi, bea meterai terutang oleh penerima kwitansi. <br> (3) Dalam hal dokumen dibuat oleh 2 (dua) pihak atau lebih, misal surat perjanjian dibawah tangan, maka masing-masing pihak terutang bea materai.",
-      "jawabana" :  "Objek Bea Materai",
-      "jawabanb" :  "Subjek Bea Materai",
-      "jawabanc" :  "Dokumen Bea Materai",
-      "jawaband" :  "Semua jawaban benar",
-      "kuncijawaban" : "Subjek Bea Materai"
+      "soal" : "PPh sehubungan dengan penghasilan perusahaan pelayaran dalam negeri dan luar negeri serta perusahaan penerbangan bersifat…..",
+      "jawabana" :	"Subjektif",
+      "jawabanb" :	"Objektif",
+      "jawabanc" :	"Final",
+      "jawaband" :	"Tidak Final",
+      "kuncijawaban" : "Final"
     },
-    {
+    {	
       "id" : 3,
-      "soal" : "Surat perjanjian dan surat-surat lainnya (surat kuasa, surat hibah, dan surat pernyataan) yang dibuat untuk digunakan sebagai alat pembuktian mengenai perbuatan, kenyataan atau keadaan yang bersifat perdata. Dokumen tersebut di atas merupakan…..",
-      "jawabana" :  "Objek Bea Materai",
-      "jawabanb" :  "Subjek Bea Materai",
-      "jawabanc" :  "Dokumen Bea Materai",
-      "jawaband" :  "Semua jawaban benar",
-      "kuncijawaban" : "Objek Bea Materai"
+      "soal" : "Berapa besarnya tarif pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan pelayaran dalam negeri?",
+      "jawabana" :	"0,5%",
+      "jawabanb" :	"1,2%",
+      "jawabanc" :	"7,5%",
+      "jawaband" :	"10%",
+      "kuncijawaban" : "1,2%"
     },
-    {
+    {	
       "id" : 4,
-      "soal" : "Berapakah tarif bea materai yang dikenakan jika surat yang memuat jumlah uang lebih dari Rp250.000,- sampai dengan Rp1.000.000,-?",
-      "jawabana" :  "Rp3.000,-",
-      "jawabanb" :  "Rp5.000,-",
-      "jawabanc" :  "Rp6.000,-",
-      "jawaband" :  "(a) dan (c) benar",
-      "kuncijawaban" : "Rp3.000,-"
+      "soal" : "Semua imbalan atau nilai pengganti berupa uang atau nilai uang yang diterima atau diperoleh Wajib Pajak sebagaimana diuraikan dalam objek pajak, disebut dengan…..",
+      "jawabana" :	"Penghasilan bruto",
+      "jawabanb" :	"Penghasilan neto",
+      "jawabanc" :	"Peredaran bruto",
+      "jawaband" :	"Laba bersih",
+      "kuncijawaban" : "Peredaran bruto"
     },
-    {
+    {	
       "id" : 5,
-      "soal" : "Berapakah tarif bea materai yang dikenakan jika surat yang memuat jumlah uang lebih dari Rp1.000.000,-?",
-      "jawabana" :  "Rp3.000,-",
-      "jawabanb" :  "Rp5.000,-",
-      "jawabanc" :  "Rp6.000,-",
-      "jawaband" :  "(a) dan (c) benar",
-      "kuncijawaban" : "Rp6.000,-"
+      "soal" : "Pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan pelayaran dan penerbangan luar negeri diatur dalam Keputusan Menteri Nomor…..",
+      "jawabana" :	"Nomor 147/KMK.03/1996",
+      "jawabanb" :	"Nomor 417/KMK.04/1998",
+      "jawabanc" :	"Nomor 417/KMK.04/1996",
+      "jawaband" :	"Nomor 147/KMK.03/1998",
+      "kuncijawaban" : "Nomor 417/KMK.04/1996"
     },
-    {
+    {	
       "id" : 6,
-      "soal" : "Apa saja dokumen yang akan digunakan sebagai alat pembuktian di muka pengadilan?",
-      "jawabana" :  "Surat-surat biasa dan surat kerumah-tanggaan;",
-      "jawabanb" :  "Surat-surat yang semula tidak dikenakan bea meterai berdasarkan tujuannya, jika digunakan untuk tujuan lain atau digunakan oleh orang lain, selain dari maksud semula",
-      "jawabanc" :  "Jika dokumen awalnya tidak terutang Bea Materai, namun kemudian dokumen tersebut digunakan untuk alat pembuktian di pengadilan, maka dokumen tersebut harus dilakukan pemeteraian kemudian.",
-      "jawaband" :  "Semua jawaban benar",
-      "kuncijawaban" : "Semua jawaban benar"
+      "soal" : "Berapakah tarif pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan pelayaran dan penerbangan luar negeri?",
+      "jawabana" :	"0,25% ",
+      "jawabanb" :	"1,5%",
+      "jawabanc" :	"2,5%",
+      "jawaband" :	"2,64%",
+      "kuncijawaban" : "2,64%"
     },
-    {
+    {	
       "id" : 7,
-      "soal" : "Berikut ini yang bukan merupakan objek Bea Materai adalah…..",
-      "jawabana" :  "Tanda penerimaan uang yang dibuat untuk keperluan intern organisasi",
-      "jawabanb" :  "Akta-akta notaris termasuk salinannya",
-      "jawabanc" :  "Surat kuasa, surat hibah, dan surat pernyataan",
-      "jawaband" :  "Wesel, promes, dan aksep",
-      "kuncijawaban" : "Tanda penerimaan uang yang dibuat untuk keperluan intern organisasi"
+      "soal" : "Berikut ini merupakan objek pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan pelayaran dalam negeri, kecuali…..",
+      "jawabana" :	"Pelabuhan di Indonesia ke pelabuhan di luar Indonesia",
+      "jawabanb" :	"Pelabuhan di luar Indonesia ke pelabuhan di Indonesia",
+      "jawabanc" :	"Pelabuhan di Indonesia ke pelabuhan lainnya di Indonesia",
+      "jawaband" :	"Pelabuhan di luar Indonesia ke pelabuhan Singapura",
+      "kuncijawaban" : "Pelabuhan di luar Indonesia ke pelabuhan Singapura"
     },
-    {
+    {	
       "id" : 8,
-      "soal" : "Berapakah tarif Bea Materai untuk cek dan bilyet giro?",
-      "jawabana" :  "Rp3.000,-",
-      "jawabanb" :  "Rp5.000,-",
-      "jawabanc" :  "Rp6.000,-",
-      "jawaband" :  "Rp15.000,-",
-      "kuncijawaban" : "Rp3.000,-"
+      "soal" : "Berapakah tarif pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan penerbangan dalam negeri?",
+      "jawabana" :	"0,75%",
+      "jawabanb" :	"1%",
+      "jawabanc" :	"1,8%",
+      "jawaband" :	"2,5%",
+      "kuncijawaban" : "1,8%"
     },
-    {
+    {	
       "id" : 9,
-      "soal" : "Berapakah tarif Bea Materai untuk nominal hingga Rp250.000,-?",
-      "jawabana" :  "Rp3.000,-",
-      "jawabanb" :  "Rp5.000,-",
-      "jawabanc" :  "Rp6.000,-",
-      "jawaband" :  "Tidak dikenakan Bea Materai",
-      "kuncijawaban" : "Tidak dikenakan Bea Materai"
+      "soal" : "Siapakah yang menjadi Wajib Pajak pada pajak penghasilan atas imbalan yang dibayarkan atau terutang kepada perusahaan penerbangan dalam negeri?",
+      "jawabana" :	"Perusahaan penerbangan yang berkedudukan di Malaysia yang memperoleh penghasilan berdasarkan perjanjian carter",
+      "jawabanb" :	"Perusahaan penerbangan yang berkedudukan di Indonesia yang memperoleh penghasilan berdasarkan perjanjian kerja sama",
+      "jawabanc" :	"Perusahaan penerbangan yang berkedudukan di Indonesia yang memperoleh penghasilan berdasarkan perjanjian carter",
+      "jawaband" :	"Perusahaan penerbangan yang berkedudukan di Malaysia yang memperoleh penghasilan berdasarkan perjanjian kerja sama",
+      "kuncijawaban" : "Perusahaan penerbangan yang berkedudukan di Indonesia yang memperoleh penghasilan berdasarkan perjanjian carter"
     },
-    {
+    {	
       "id" : 10,
-      "soal" : "(1) Benda meterai adalah meterai tempel dan kertas meterai yang dikeluarkan oleh Pemerintah Republik Indonesia. <br> (2) Pemeteraian kemudian adalah pelunasan bea meterai yang dilakukan pejabat pos atas dokumen yang bea meterai belum dilunasi. <br> Penjelasan di atas merupakan…..Bea Materai",
-      "jawabana" :  "Definisi",
-      "jawabanb" :  "Jenis",
-      "jawabanc" :  "Subjek",
-      "jawaband" :  "Objek",
-      "kuncijawaban" : "Jenis"
+      "soal" : "Dalam pembukuan Wajib Pajak, penghasilan dan biaya yang terjadi harus...dari penghasilan dan biaya lainnya.",
+      "jawabana" :	"ditambahkan",
+      "jawabanb" :	"digabungkan",
+      "jawabanc" :	"dikurangkan",
+      "jawaband" :	"dipisahkan",
+      "kuncijawaban" : "dipisahkan",
     }
   ]
 }
